@@ -2,142 +2,172 @@
     "items": {
         "phone_cases": [
             {
+                "id": 38,
+                "title": "Sakata Gintoki-Kun",
+                "price": 30,
+                "img": "https://ih1.redbubble.net/image.2925545186.6728/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Sakata-Gintoki-Kun-by-carubancreative/93386728.9YLDE"
+            },
+            {
                 "id": 0,
                 "title": "Goku ultra instinct",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.3757454655.2084/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg"
+                "img": "https://ih1.redbubble.net/image.3757454655.2084/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Goku-ultra-instinct-by-Harsha-k-m/114632084.9YLDE"
             },
             {
                 "id": 1,
                 "title": "Roronoa Zoro",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.3199460464.9277/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.3199460464.9277/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Roronoa-Zoro-by-titusdonna/100699277.9YLDE"
             },
             {
                 "id": 2,
                 "title": "Nezuko ",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.925002165.8507/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.925002165.8507/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/in-beautiful-art-by-rnowgu/41438507.9YLDE"
             },
             {
                 "id": 3,
                 "title": "Kaneki/Ghoul",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.349317742.1891/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u4.jpg"
+                "img": "https://ih1.redbubble.net/image.349317742.1891/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u4.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Kaneki-Ghoul-by-Mars-kun/25861891.9YLDE"
             },
             {
                 "id": 4,
                 "title": "One Piece",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.1547213963.1082/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.1547213963.1082/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Mugiwara-by-SlameDesign/55201082.9YLDE"
             },
             {
                 "id": 5,
                 "title": "Luffy Gear 5 Bounty Joyboy ",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.4023364949.4458/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.4023364949.4458/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Luffy-Gear-5-Bounty-Joyboy-by-animebrands/121134458.9YLDE"
             },
             {
                 "id": 6,
                 "title": "Gojo Phone",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.3007156889.6929/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.3007156889.6929/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Gojo-Phone-Case-by-NicTs/95596929.9YLDE"
             },
             {
                 "id": 7,
                 "title": "eleventh kata ",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.1353874501.0021/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.1353874501.0021/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/eleventh-kata-by-Velourianism/51290021.9YLDE"
             },
             {
                 "id": 8,
                 "title": "Kuroko No Basketball",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.2338259569.6931/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.2338259569.6931/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Kuroko-No-Basketball-by-na-rios/77306931.9YLDE"
             },
             {
                 "id": 9,
                 "title": "Son Goku Dragon Ball Z",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.2591436567.4267/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u1.jpg"
+                "img": "https://ih1.redbubble.net/image.2591436567.4267/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u1.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Son-Goku-Dragon-Ball-Z-by-Ryzox/84644267.9YLDE"
             },
             {
                 "id": 10,
                 "title": "BnH Academia Magazine: All Might ",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.1191805045.8621/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.1191805045.8621/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/BnH-Academia-Magazine-All-Might-by-Waifu-Dope/36498621.9YLDE"
             },
             {
                 "id": 11,
                 "title": "Final On Fire",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.5036193492.4247/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg"
+                "img": "https://ih1.redbubble.net/image.5036193492.4247/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Final-On-Fire-by-AliMurazik/146064247.9YLDE"
             },
             {
                 "id": 12,
                 "title": "Blue Shadow ",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.5036154404.3936/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg"
+                "img": "https://ih1.redbubble.net/image.5036154404.3936/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Blue-Shadow-by-AliMurazik/146063936.9YLDE"
             },
             {
                 "id": 13,
                 "title": "Mikasa SnK Dark",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.845043368.7921/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.845043368.7921/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Mikasa-SnK-Dark-by-TorquedMicra/39517921.9YLDE"
             },
             {
                 "id": 14,
                 "title": "Tony",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.2304422765.7809/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg"
+                "img": "https://ih1.redbubble.net/image.2304422765.7809/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u2.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Tony-Holding-Orange-Juice-by-Knana396/76287809.9YLDE"
             },
             {
                 "id": 15,
                 "title": "Prison Mike",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.624726756.3149/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u3.jpg"
+                "img": "https://ih1.redbubble.net/image.624726756.3149/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.u3.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Prison-Mike-by-huckblade/33473149.9YLDE"
             },
             {
                 "id": 16,
                 "title": "the last of us poster",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.4856775802.4904/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.4856775802.4904/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/the-last-of-us-poster-by-gegerke17/141494904.9YLDE"
             },
             {
                 "id": 17,
                 "title": "Brooklyn Nine",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.85479364.3138/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.85479364.3138/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Brooklyn-Nine-Nine-by-WhatEvenNo/15713138.9YLDE"
             },
             {
                 "id": 18,
                 "title": "spiderverse",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.5126094842.0875/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.5126094842.0875/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/spiderverse-by-esufaaz/149160875.9YLDE"
             },
             {
                 "id": 19,
                 "title": "Scream horror movie",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.3661853214.4623/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.3661853214.4623/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Scream-horror-movie-artwork-by-WeasleyRobyn/112404623.9YLDE"
             },
             {
                 "id": 20,
                 "title": "Leonardo Dicaprio ",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.1990099835.1230/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.1990099835.1230/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Leonardo-Dicaprio-Phone-Case-by-sophiesdesignz/66811230.9YLDE"
             },
             {
                 "id": 21,
                 "title": "John Wick 4 Movie",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.4924063258.1592/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.4924063258.1592/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/John-Wick-Movie-John-Wick-4-Movie-JW4-by-IchiVicius/143391592.9YLDE"
             },
             {
                 "id": 22,
                 "title": "Black Red ",
                 "price": 30,
-                "img": "https://ih1.redbubble.net/image.3092542083.9918/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.3092542083.9918/icr,iphone_14_tough,back,a,x1000-bg,f8f8f8.jpg",
+                "url": "https://www.redbubble.com/i/iphone-case/Black-Red-iPhone-Case-Skin-Cover-by-hichamallouni/97879918.9YLDE"
             }
         ],
         "t_shirts": [
@@ -145,91 +175,107 @@
                 "id": 23,
                 "title": "El Profesor ",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.4796127321.2094/ssrco,lightweight_sweatshirt,mens,heather_grey_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.4796127321.2094/ssrco,lightweight_sweatshirt,mens,heather_grey_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.jpg",
+                "url" :"https://www.redbubble.com/i/sweatshirt/El-Profesor-by-Reno-Viol/139812094.NUC7A"
             },
             {
                 "id": 24,
                 "title": "La Casa de Papel",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.1154264496.6064/ssrco,lightweight_hoodie,mens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.2.jpg"
+                "img": "https://ih1.redbubble.net/image.1154264496.6064/ssrco,lightweight_hoodie,mens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.2.jpg",
+                "url" :"https://www.redbubble.com/i/hoodie/La-Casa-de-Papel-V3-by-Movimalist/46966064.O6XP1.XYZ"
             },
             {
                 "id": 25,
                 "title": "drawing of Najwa Nimri with butterflies",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.1258992443.5232/ssrco,lightweight_sweatshirt,mens,heather_grey_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.1258992443.5232/ssrco,lightweight_sweatshirt,mens,heather_grey_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.jpg",
+                "url" :"https://www.redbubble.com/i/sweatshirt/drawing-of-Najwa-Nimri-with-butterflies-by-carlomgiorgia/49205232.NUC7A"
             },
             {
                 "id": 26,
                 "title": "Breaking Bad",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.1844642893.8379/ssrco,lightweight_hoodie,mens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.2.jpg"
+                "img": "https://ih1.redbubble.net/image.1844642893.8379/ssrco,lightweight_hoodie,mens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.2.jpg",
+                "url" :"https://www.redbubble.com/i/hoodie/Breaking-Bad-by-imranbinyounos/62418379.O6XP1.XYZ"
             },
             {
                 "id": 27,
                 "title": "Prison Break Zipped Hoodie",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.3957075464.4427/ssrco,mhoodiez,mens,oatmeal_heather,front,square_product,600x600-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.3957075464.4427/ssrco,mhoodiez,mens,oatmeal_heather,front,square_product,600x600-bg,f8f8f8.jpg",
+                "url" :"https://www.redbubble.com/i/hoodie/Prison-Break-by-Scallianne/38114427.R76QN"
             },
             {
                 "id": 28,
                 "title": "Prison Break Brothers",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.476359704.4039/ssrco,lightweight_sweatshirt,mens,black_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.u3.jpg"
+                "img": "https://ih1.redbubble.net/image.476359704.4039/ssrco,lightweight_sweatshirt,mens,black_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.u3.jpg",
+                "url" :"https://www.redbubble.com/i/sweatshirt/Prison-Break-Brothers-by-PopClothing/29304039.0LCRC.XYZ"
             },
             {
                 "id": 29,
                 "title": "just chillin', killin'",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.1575770376.5732/ra,sweatshirt,x1800,oatmeal_heather,front-c,281,327,600,600-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.1575770376.5732/ra,sweatshirt,x1800,oatmeal_heather,front-c,281,327,600,600-bg,f8f8f8.jpg",
+                "url" :"https://www.redbubble.com/i/sweatshirt/just-chillin-killin-by-inadequate-prat/55805732.73735"
+                
             },
             {
                 "id": 30,
                 "title": "Stitch and his ukulele",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.903189713.5123/ssrco,mhoodie,mens,fafafa:ca443f4786,front,square_product,x600-bg,f8f8f8.1.jpg"
+                "img": "https://ih1.redbubble.net/image.903189713.5123/ssrco,mhoodie,mens,fafafa:ca443f4786,front,square_product,x600-bg,f8f8f8.1.jpg",
+                "url" :"https://www.redbubble.com/i/hoodie/Stitch-and-his-ukulele-by-ss52/40935123.VR8OC"
             },
             {
                 "id": 31,
                 "title": "Ereh Red Comic",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.4373439558.9966/ssrco,lightweight_hoodie,mens,grey_lightweight_hoodie,front,square_product,x600-bg,f8f8f8.2.jpg"
+                "img": "https://ih1.redbubble.net/image.4373439558.9966/ssrco,lightweight_hoodie,mens,grey_lightweight_hoodie,front,square_product,x600-bg,f8f8f8.2.jpg",
+                "url" :"https://www.redbubble.com/i/hoodie/Ereh-Red-Comic-Design-by-IkaXII/129269966.GQV8B"
             },
             {
                 "id": 32,
                 "title": "One Piece Luffy Picking Nose",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.3624753756.7704/ssrco,lightweight_sweatshirt,mens,black_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.jpg"
+                "img": "https://ih1.redbubble.net/image.3624753756.7704/ssrco,lightweight_sweatshirt,mens,black_lightweight_raglan_sweatshirt,front,square_product,x600-bg,f8f8f8.jpg",
+                "url" :"https://www.redbubble.com/i/sweatshirt/One-Piece-Luffy-Picking-Nose-Classic-Essential-by-LibiEnfema/111527704.0LCRC"
             },
             {
                 "id": 33,
                 "title": "Straw Hats Classic",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.4399230278.8275/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg"
+                "img": "https://ih1.redbubble.net/image.4399230278.8275/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg",
+                "url" :"https://www.redbubble.com/i/t-shirt/Straw-Hats-by-ScottyDoo292/50688275.IJ6L0.XYZ"
             },
             {
                 "id": 34,
                 "title": "The Black Sushi Dragon",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.965911425.8830/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.u2.jpg"
+                "img": "https://ih1.redbubble.net/image.965911425.8830/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.u2.jpg",
+                "url" : "https://www.redbubble.com/i/t-shirt/The-Black-Sushi-Dragon-by-ilustrata/42418830.IJ6L0.XYZ"
             },
             {
                 "id": 35,
                 "title": "Heroes eyes Classic",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.548436879.9534/ssrco,classic_tee,mens,322e3f:696a94a5d4,front_alt,square_product,600x600.u2.jpg"
+                "img": "https://ih1.redbubble.net/image.548436879.9534/ssrco,classic_tee,mens,322e3f:696a94a5d4,front_alt,square_product,600x600.u2.jpg",
+                "url" :"https://www.redbubble.com/i/t-shirt/Heroes-eyes-by-o0kawaii0o/31299534.S7RYU"
             },
             {
                 "id": 36,
                 "title": "Luffy Wanted Poster Gear 5 ",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.4078357328.0018/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg"
+                "img": "https://ih1.redbubble.net/image.4078357328.0018/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg",
+                "url" :"https://www.redbubble.com/i/t-shirt/Luffy-Wanted-Poster-Gear-5-by-Bass15/122420018.IJ6L0.XYZ"
             },
             {
                 "id": 37,
                 "title": "This Is The Prince Of Swords ",
                 "price": 40,
-                "img": "https://ih1.redbubble.net/image.3531101999.2533/ssrco,slim_fit_t_shirt,mens,e5d6c5:f62bbf65ee,front,square_product,600x600.jpg"
+                "img": "https://ih1.redbubble.net/image.3531101999.2533/ssrco,slim_fit_t_shirt,mens,e5d6c5:f62bbf65ee,front,square_product,600x600.jpg",
+                "url" : "https://www.redbubble.com/i/t-shirt/This-Is-The-Prince-Of-Swords-by-EricaMTowery/109282533.CW2C9.XYZ"
             }
         ]
     }
